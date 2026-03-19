@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Customer Churn Prediction",
+    "imageSrc": "projects/ccp.png",
+    "description": "A machine learning project predicting customer churn using Python, Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.",
+    "skills": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "ML"],
+    "demo": "https://customer-churn-prediction-1-4scj.onrender.com",
+    "source": "https://github.com/AniketChandel/customer-churn-prediction.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "My Portfolio",
+    "imageSrc": "projects/mp.jpg",
+    "description": "A personal portfolio website showcasing my skills, projects, and contact information using React.js, Tailwind CSS, and JavaScript.",
+    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+    "demo": "https://my-portfolio-1-4scj.onrender.com",
+    "source": "https://github.com/AniketChandel/my-portfolio.git"
   }
 ]

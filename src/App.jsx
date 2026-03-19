@@ -1,18 +1,18 @@
 import styles from "./App.module.css";
-import { About } from "./components/About/About";
+import { Aboutme } from "./components/Aboutme/Aboutme";
 import { Contact } from "./components/Contact/Contact";
-import { Experience } from "./components/Experience/Experience";
-import { Hero } from "./components/Hero/Hero";
-import { Navbar } from "./components/Navbar/Navbar";
+import { Skills } from "./components/Skills/Skills";
+import { Me} from "./components/Me/Me";
+import { Navigationbar } from "./components/Navigationbar/Navigationbar";
 import { Projects } from "./components/Projects/Projects";
 
 function App() {
   return (
     <div className={styles.App}>
-      <Navbar />
-      <Hero />
-      <About />
-      <Experience />
+      <Navigationbar />
+      <Me />
+      <Aboutme />
+      <Skills />
       <Projects />
       <Contact />
     </div>
