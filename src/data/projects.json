@@ -1,12 +1,20 @@
 [
-  {
-    "title": "Customer Churn Prediction",
-    "imageSrc": "projects/ccp.png",
-    "description": "A machine learning project predicting customer churn using Python, Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.",
-    "skills": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "ML"],
-    "demo": "https://customer-churn-prediction-1-4scj.onrender.com",
-    "source": "https://github.com/AniketChandel/customer-churn-prediction.git"
-  },
+{
+  "title": "AI Interview Simulator",
+  "imageSrc": "projects/aiinterview.png",
+  "description": "A full stack AI powered interview preparation platform that analyzes resumes, generates personalized interview questions using Google Gemini API, evaluates responses, and provides resume scores, interview scores, and detailed AI feedback.",
+  "skills": [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "JavaScript",
+    "Google Gemini API",
+    "REST API",
+    "PDF Parsing"
+  ],
+  "demo": "https://6a5e159c8ccd7572584cb499--ai-interview-simulator-100.netlify.app/",
+  "source": "https://github.com/AniketChandel/AI-INTERVIEW-SIMULATOR"
+}
   {
     "title": "My Portfolio",
     "imageSrc": "projects/mp.jpg",
