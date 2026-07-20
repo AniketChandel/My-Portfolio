@@ -1,25 +1,31 @@
 [
-{
-  "title": "AI Interview Simulator",
-  "imageSrc": "projects/aiinterview.png",
-  "description": "A full stack AI powered interview preparation platform that analyzes resumes, generates personalized interview questions using Google Gemini API, evaluates responses, and provides resume scores, interview scores, and detailed AI feedback.",
-  "skills": [
-    "React.js",
-    "Node.js",
-    "Express.js",
-    "JavaScript",
-    "Google Gemini API",
-    "REST API",
-    "PDF Parsing"
-  ],
-  "demo": "https://6a5e159c8ccd7572584cb499--ai-interview-simulator-100.netlify.app/",
-  "source": "https://github.com/AniketChandel/AI-INTERVIEW-SIMULATOR"
-}
+  {
+    "title": "AI Interview Simulator",
+    "imageSrc": "projects/aiinterview.png",
+    "description": "A full stack AI powered interview preparation platform that analyzes resumes, generates personalized interview questions using Google Gemini API, evaluates responses, and provides resume scores, interview scores, and detailed AI feedback.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "Google Gemini API",
+      "REST API",
+      "PDF Parsing"
+    ],
+    "demo": "https://6a5e159c8ccd7572584cb499--ai-interview-simulator-100.netlify.app/",
+    "source": "https://github.com/AniketChandel/AI-INTERVIEW-SIMULATOR"
+  },
   {
     "title": "My Portfolio",
     "imageSrc": "projects/mp.jpg",
     "description": "A personal portfolio website showcasing my skills, projects, and contact information using React.js, Tailwind CSS, and JavaScript.",
-    "skills": ["React", "JavaScript", "Tailwind CSS", "HTML", "CSS"],
+    "skills": [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "HTML",
+      "CSS"
+    ],
     "demo": "https://my-portfolio-1-4scj.onrender.com",
     "source": "https://github.com/AniketChandel/my-portfolio.git"
   }
